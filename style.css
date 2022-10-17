@@ -28,11 +28,10 @@ p{
 }
 p{text-align: center;
   font-size:20px;
+  border: 15px ridge grey
 
 }
-<h7>{text-align: center;
-  font-size: 20px;
-}
+
 
 #anos{
   margin-right: 30%
